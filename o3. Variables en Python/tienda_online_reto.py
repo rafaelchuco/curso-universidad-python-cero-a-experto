@@ -1,6 +1,3 @@
-from numpy.ma.core import product
-from sympy import false
-
 print("***Sistema de Tienda Online***")
 
 producto = "Cámara digital"
